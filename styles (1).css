@@ -1,0 +1,21 @@
+ul{
+    text-align:center;
+list-style-position:inside ;}
+
+   body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image:url('images.jfif');
+    
+    background-attachment:fixed;
+    background-size:cover;
+    }
+    table,th,td{
+        border:1px solid black;
+        border-collapse:collapse;
+        }
+        
+        
+        
+
+  
